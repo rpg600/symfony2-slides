@@ -1,8 +1,14 @@
-# What is symfony
+# What is symfony2
 
 * Set of *reusable and decoupled* PHP components
 * Standard edition is a full stack framework
 * MIT licensed
+
+---
+
+# symfony2 components
+
+![symfony2 components](http://www.garfieldtech.com/presentations/dcmunich2012-wscci/images/symfony2-components.png)
 
 ---
 
@@ -15,8 +21,6 @@
 
 [Source](http://symfony.com/symfony-explained-to-a-developer)
 
-![AWESOME](http://i110.photobucket.com/albums/n90/KevinCostner_2006/AwesomeRennerGif.gif)
-
 ---
 
 # Websites using symfony2
@@ -24,8 +28,9 @@
 * [overblog.com](http://en.overblog.com/)
 * [wetter.de](http://www.wetter.de/)
 * [youporn.com](javascript:alert('Haha%2C%20nice%20try'))
-* [siteduzero.com](http://www.siteduzero.com/)
+* [openclassrooms.com](http://openclassrooms.com/) formerly siteduzero.com
 * [symfony.com](http://symfony.com/) ... really ?
+* [spotify.com](http://spotify.com/)
 
 ---
 
