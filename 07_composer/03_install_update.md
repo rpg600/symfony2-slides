@@ -13,7 +13,6 @@ composer require
 composer require monolog/monolog:dev-master
 ```
 
-
 ---
 
 #Update dependencies
