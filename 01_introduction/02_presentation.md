@@ -8,7 +8,7 @@
 
 # symfony2 components
 
-![symfony2 components](http://www.garfieldtech.com/presentations/dcmunich2012-wscci/images/symfony2-components.png)
+# ![symfony2 components](http://www.garfieldtech.com/presentations/dcmunich2012-wscci/images/symfony2-components.png)
 
 ---
 
